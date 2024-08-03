@@ -19,7 +19,7 @@ public class DBBean {
 		this.driver = driver;
 		this.userName = userName;
 		this.password = password;
-		System.out.println("ss");
+		
 	}
 
 	public String getUrl() {
